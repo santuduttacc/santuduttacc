@@ -11,6 +11,7 @@ I'm a passionate software engineer with deep expertise in building scalable e-co
 - **AI Engineering**: Leveraging LLMs and machine learning to solve complex technical problems
 - **Full-Stack Solutions**: From backend architecture to frontend implementation and deployment
 - **WordPress & Shopify**: Custom plugin development and storefront optimization
+- **Claude Code**: Expert in AI-powered code generation and intelligent development workflows
 
 ### 💻 Tech Stack
 
@@ -26,6 +27,7 @@ I'm a passionate software engineer with deep expertise in building scalable e-co
 - **CheckoutChamp**: Advanced checkout optimization and conversion funnel engineering
 
 **AI & Specialized Tools:**
+- **Claude Code**: AI-powered code generation and development acceleration
 - **AI/LLM Integration**: Ollama, LangChain for intelligent automation
 - **Log Analysis & Diagnostics**: Custom CLI tools
 - **Content Detection**: AI-powered analysis and prediction
@@ -36,10 +38,6 @@ I'm a passionate software engineer with deep expertise in building scalable e-co
 - **[WordPress-AI-Content-Predictor-Plugin](https://github.com/santuduttacc/WordPress-AI-Content-Predictor-Plugin)** - WordPress plugin using AI detection algorithms to identify AI-generated vs human-written content
 - **[Plateful-Sales-Page](https://github.com/santuduttacc/Plateful-Sales-Page-14072025)** - High-converting sales page for e-commerce with affiliate optimization
 - **[php-oops-tutorial](https://github.com/santuduttacc/php-oops-tutorial)** - Object-oriented PHP tutorials and best practices
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santuduttacc&show_icons=true&theme=gruvbox&hide_border=true)
 
 ### 🤝 Let's Connect
 
