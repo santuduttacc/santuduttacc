@@ -6,32 +6,44 @@ I'm a passionate software engineer with deep expertise in building scalable e-co
 
 ### 🎯 What I Do
 
-- **E-Commerce Development**: Building robust, high-performance e-commerce platforms with affiliate marketing integration
-- **Traffic Monetization**: Expert in affiliate-based business models and traffic optimization
-- **AI Engineering**: Leveraging LLMs and machine learning to solve real-world problems
-- **Full-Stack Solutions**: From backend architecture to frontend implementation
+- **E-Commerce Development**: Building robust, high-performance e-commerce platforms optimized for affiliate-driven traffic with seamless checkout experiences
+- **Traffic Monetization**: Expert in affiliate-based business models and traffic optimization strategies
+- **AI Engineering**: Leveraging LLMs and machine learning to solve complex technical problems
+- **Full-Stack Solutions**: From backend architecture to frontend implementation and deployment
+- **WordPress & Shopify**: Custom plugin development and storefront optimization
 
 ### 💻 Tech Stack
 
-**Languages**: JavaScript, PHP, Python, SQL
+**Backend & Frameworks:**
+- **PHP Frameworks**: CodeIgniter, Laravel - Building scalable backend systems
+- **Database**: MySQL - Data management and optimization
+- **API Development**: RESTful APIs with PHP frameworks
 
-**Specializations**: 
-- E-Commerce Platforms
-- AI/LLM Integration (Ollama, LangChain)
-- WordPress & Plugin Development
-- RESTful APIs & Microservices
-- Log Analysis & Diagnostics
+**Frontend & e-Commerce Platforms:**
+- **JavaScript**: Client-side logic, interactivity, and optimization
+- **Shopify**: Custom theme development and app integration for storefronts
+- **WordPress**: Plugin development and custom extensions
+- **CheckoutChamp**: Advanced checkout optimization and conversion funnel engineering
+
+**AI & Specialized Tools:**
+- **AI/LLM Integration**: Ollama, LangChain for intelligent automation
+- **Log Analysis & Diagnostics**: Custom CLI tools
+- **Content Detection**: AI-powered analysis and prediction
 
 ### 🚀 Featured Projects
 
 - **[ai-log-analyzer](https://github.com/santuduttacc/ai-log-analyzer)** - An AI-powered CLI tool that parses large log files and uses LLMs to identify root causes and suggest technical fixes
 - **[WordPress-AI-Content-Predictor-Plugin](https://github.com/santuduttacc/WordPress-AI-Content-Predictor-Plugin)** - WordPress plugin using AI detection algorithms to identify AI-generated vs human-written content
+- **[Plateful-Sales-Page](https://github.com/santuduttacc/Plateful-Sales-Page-14072025)** - High-converting sales page for e-commerce with affiliate optimization
 - **[php-oops-tutorial](https://github.com/santuduttacc/php-oops-tutorial)** - Object-oriented PHP tutorials and best practices
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santuduttacc&show_icons=true&theme=gruvbox&hide_border=true)
 
 ### 🤝 Let's Connect
 
-I'm always open to discussing e-commerce strategies, AI applications, or exciting development opportunities!
+I'm always open to discussing e-commerce strategies, AI applications, checkout optimization, or exciting development opportunities!
 
 - 📧 **Email**: [santudutta21@gmail.com](mailto:santudutta21@gmail.com)
 - 🔗 **LinkedIn**: [dutsaan](https://www.linkedin.com/in/dutsaan/)
@@ -39,4 +51,4 @@ I'm always open to discussing e-commerce strategies, AI applications, or excitin
 
 ---
 
-*Turning ideas into scalable solutions with a focus on e-commerce excellence and AI innovation.*
+*Turning ideas into scalable solutions with a focus on e-commerce excellence, checkout optimization, and AI innovation.*
