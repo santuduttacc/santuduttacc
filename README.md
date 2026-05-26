@@ -28,9 +28,6 @@ I'm a passionate software engineer with deep expertise in building scalable e-co
 - **[WordPress-AI-Content-Predictor-Plugin](https://github.com/santuduttacc/WordPress-AI-Content-Predictor-Plugin)** - WordPress plugin using AI detection algorithms to identify AI-generated vs human-written content
 - **[php-oops-tutorial](https://github.com/santuduttacc/php-oops-tutorial)** - Object-oriented PHP tutorials and best practices
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santuduttacc&show_icons=true&theme=gruvbox&hide_border=true)
 
 ### 🤝 Let's Connect
 
