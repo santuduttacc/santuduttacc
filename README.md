@@ -35,9 +35,7 @@ I'm a passionate software engineer with deep expertise in building scalable e-co
 ### 🚀 Featured Projects
 
 - **[ai-log-analyzer](https://github.com/santuduttacc/ai-log-analyzer)** - An AI-powered CLI tool that parses large log files and uses LLMs to identify root causes and suggest technical fixes
-- **[WordPress-AI-Content-Predictor-Plugin](https://github.com/santuduttacc/WordPress-AI-Content-Predictor-Plugin)** - WordPress plugin using AI detection algorithms to identify AI-generated vs human-written content
-- **[Plateful-Sales-Page](https://github.com/santuduttacc/Plateful-Sales-Page-14072025)** - High-converting sales page for e-commerce with affiliate optimization
-- **[php-oops-tutorial](https://github.com/santuduttacc/php-oops-tutorial)** - Object-oriented PHP tutorials and best practices
+- **[wordpress-ai-content-predictor-plugin](https://github.com/santuduttacc/wordpress-ai-content-predictor-plugin)** - WordPress plugin using AI detection algorithms to identify AI-generated vs human-written content
 
 ### 🤝 Let's Connect
 
